@@ -1,0 +1,62 @@
+<resources>.
+
+    <string name="app_name">CashTrack</string>
+    <string name="title_activity_list">List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_monthly">Monthly Reports</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_faq">Frequently Ask Questions</string>
+    <string name="title_activity_addaccount">Add Accounts</string>
+    <string name="title_activity_history">History</string>
+
+    <string-array name="categories">
+        <item>Entertainment</item>
+        <item>Bills</item>
+        <item>Clothing</item>
+        <item>Housing</item>
+        <item>Personal</item>
+        <item>Office</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_add_expense">Add New Expense</string>
+
+
+    <string name="title_activity_welcome">Cash Track</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello User!</string>
+    <string name="slide_1_desc">The easiest way to manage your daily expense is here!</string>
+
+    <string name="slide_2_title">Update Expense</string>
+    <string name="slide_2_desc">Add categorized expense you did !</string>
+
+    <string name="slide_3_title">Analyse</string>
+    <string name="slide_3_desc">Analyse the situation by always keep an eye on Savings!</string>
+
+    <string name="slide_4_title">Secure login</string>
+    <string name="slide_4_desc">Secure and easy, keep your data save!</string>
+
+    <string name="play_again_desc">To see the intro, goto Settings </string>
+    <string name="play_again">Play Again</string>
+
+    <string name="new_message_notification_placeholder_text_template">Cash track : %1$s , open the app to login and continue
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <string name="new_message_notification_title_template">CashTrack: %1$s</string>
+
+
+    <string name="action_open">open</string>
+
+
+</resources>
